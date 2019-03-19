@@ -7,7 +7,7 @@
     <description>Url is called when recipient is offline</description>
     <author>Pavel Goski / Krzysztof Misztal</author>
     <version>${project.version}</version>
-    <date>tbc.</date>
+    <date>03/19/2019</date>
     <minServerVersion>4.0.0</minServerVersion>
 
 </plugin>
